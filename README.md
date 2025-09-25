@@ -1,4 +1,4 @@
-# ELAAI Framework
+# Explainable and Likelihood-Aware AI (ELAAI) Framework
 
 [![DOI](https://zenodo.org/badge/912808784.svg)](https://doi.org/10.5281/zenodo.15624608)
 
