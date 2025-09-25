@@ -55,7 +55,6 @@ Pre-trained weights are available for both networks. Please download and place t
 | MFA-Net   | [Google Drive](https://drive.google.com/file/d/18_hG6FWS_Wf7qxi9CvRPujajGLEQkrPK/view?usp=drive_link)              | `./MFA_Net/ModelSaveTensorFlow/MFANet.h5`                                      |
 | SLIP-Net  | [Google Drive](https://drive.google.com/file/d/1DfUrKidnrZwmjbPDDx-WmttUZyBNX_Mq/view?usp=drive_link)              | `./SLIP_Net/experiments/SLIP_ssim_1_diffusion_1/dsc0.999.pth.tar`                                                 |
 
----
 
 -->
 
