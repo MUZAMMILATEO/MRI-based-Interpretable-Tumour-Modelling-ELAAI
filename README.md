@@ -8,6 +8,26 @@ This repository implements the **Explainable and Likelihood-Aware AI (ELAAI)** f
 - **Refinement Step**: A two-phase strategy to enhance MFA-Net predicted masks
 - **SLIP-Net**: Swin-Transformer backbone with MSDU head for pixel-level tumour-likelihood estimation  
 
+## 🧩 Methodology Overview
+
+<p align="center">
+  <img src="media/media_01.png" alt="ELAAI Framework Overview" width="700"/>
+</p>
+
+---
+
+## 🏗️ Model Architectures
+
+The ELAAI framework is composed of the following core designs:
+- **MFA-Net**: Multi-scale Feature Aggregation network  
+- **Refinement Module**: Two-phase correction strategy  
+- **SLIP-Net**: Swin-Transformer with MSDU head  
+- **Tumour-Likelihood Estimator**: Pixel-level confidence mapping  
+
+<p align="center">
+  <img src="media/media_02.png" alt="ELAAI Model Architectures" width="800"/>
+</p>
+
 ---
 
 <!--
